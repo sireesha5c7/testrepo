@@ -1,2 +1,2 @@
 # testrepo
-testrepository
+testrepository for practice only
